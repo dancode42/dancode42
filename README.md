@@ -9,6 +9,8 @@ I'm a mecatronic engineer who is passionate about making contributing to machine
 - 📚 I'm learning machine learning algorithms and IoT systems.
 - 🕵🏽‍♀️ I'm looking to colaborate with innovate projects.
 
+# Hi, I'm Diana 👋👩🏽‍💻❤️
+
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
