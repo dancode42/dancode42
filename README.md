@@ -2,7 +2,8 @@
 # Hi, I'm Diana 👋👩🏽‍💻❤️
 
 <img src="https://github.com/dancode42/dancode42/blob/main/Images/Pink%20Light%20Leak%20Gradient%20LinkedIn%20Banner.png" alt="a">
-## Welcome to my learning space!
+##Welcome to my learning space!
+
 I'm a mecatronic engineer who is passionate about making contributing to machine learning, creating technology to elevate people, and building community. Some technologies I enjoy working with include Python, MATLAB, SQL.R.
 - 🤖 I'm interested on industry 4.0
 - 📚 I'm learning machine learning algorithms and IoT systems.
