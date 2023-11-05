@@ -1,4 +1,4 @@
-##👋 Hi, I’m Diana 
+<h1>👋 Hi, I’m Diana  </h1>
 
 - 👀 I’m interested in data analyst
 - 🌱 I’m currently learning mechatronics
