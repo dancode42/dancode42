@@ -20,7 +20,7 @@
 
 <h2>Find me around the web</h2>
 <ul>
-    <li><a href="[[Enlace a tu sitio web](https://www.linkedin.com/in/diana-maga%C3%B1a-nava-40b122244/)]">LinkedIn</a></li>
+    <li><a href="[[[Enlace a tu sitio web](https://www.linkedin.com/in/diana-maga%C3%B1a-nava-40b122244/)](LinkedIn)]"></a></li>
     <li><a href="mailto:maganadiana002@gmail.com">Email</a></li>
     <li><a href="https://twitter.com/tucuenta">Twitter</a></li>
 </ul>
