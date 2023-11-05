@@ -1,4 +1,5 @@
 <h1>👋 Hi, I’m Diana  </h1>
+![](https://github.com/dancode42/dancode42/assets/137965763/285a6c17-2ac4-4102-8119-ff5543f34b83)
 
 - 👀 I’m interested in data analyst
 - 🌱 I’m currently learning mechatronics
