@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dancode42
+#👋 Hi, I’m @dancode42
 - 👀 I’m interested in data analyst
 - 🌱 I’m currently learning mechatronics
 - 💞️ I’m looking to collaborate on machine learning.
