@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> GitHub Profile </title>
 </head>
 <body>
 
@@ -20,13 +19,10 @@
     <li> 📫 How to reach me, follow me on linkedin /diana_mgn. </li>
 </ul>
 
-<h2>Contacto</h2>
-
-<p>Puedes encontrarme en:</p>
-
+<h2>Find me around the web</h2>
 <ul>
-    <li><a href="[Enlace a tu sitio web]">Sitio Web</a></li>
-    <li><a href="mailto:tuemail@example.com">Email</a></li>
+    <li><a href="[[Enlace a tu sitio web](https://www.linkedin.com/in/diana-maga%C3%B1a-nava-40b122244/)]">LinkedIn</a></li>
+    <li><a href="mailto:maganadiana002@gmail.com">Email</a></li>
     <li><a href="https://twitter.com/tucuenta">Twitter</a></li>
     <!-- Agrega tus redes sociales o cualquier otro medio de contacto -->
 </ul>
