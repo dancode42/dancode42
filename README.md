@@ -13,3 +13,5 @@ I'm a mecatronic engineer who is passionate about contributing to machine learni
 ## Find me around the web 🌎:
 <a> <img align="left" width="150" height="150" src="https://github.com/dancode42/dancode42/blob/main/Images/octocat-1699207186769.png"> </a>
 - Sharing updates on <a href="www.linkedin.com/in/dianamgn">LinkedIn</a> 💼
+- How to reach me <a href="mailto:maganadiana002@gmail.com">Email</a> 📩
+- Follow me <a href="https://twitter.com/diana19_02">Twitter</a>
