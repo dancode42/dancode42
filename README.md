@@ -1,12 +1,35 @@
-<h1>👋 Hi, I’m Diana  </h1>
-![](https://github.com/dancode42/dancode42/assets/137965763/285a6c17-2ac4-4102-8119-ff5543f34b83)
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> GitHub Profile </title>
+</head>
+<body>
 
-- 👀 I’m interested in data analyst
-- 🌱 I’m currently learning mechatronics
-- 💞️ I’m looking to collaborate on machine learning.
-- 📫 How to reach me, follow me on linkedin /diana_mgn
+<h1>👋 Hi, I'm Diana, Welcome to my profile!</h1>
 
-<!---
-dancode42/dancode42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p> Welcome to my learning space, see my projects abaouts machine learnig, engeneering, neuronal networks and another interesting topics. </p>
+
+<h2>Proyectos Destacados</h2>
+
+<ul>
+    <li> 👀 I’m interested in data analyst. </li>
+    <li> 🌱 I’m currently learning mechatronics. </li>
+    <li> 💞️ I’m looking to collaborate on machine learning. </li>
+    <li> 📫 How to reach me, follow me on linkedin /diana_mgn. </li>
+</ul>
+
+<h2>Contacto</h2>
+
+<p>Puedes encontrarme en:</p>
+
+<ul>
+    <li><a href="[Enlace a tu sitio web]">Sitio Web</a></li>
+    <li><a href="mailto:tuemail@example.com">Email</a></li>
+    <li><a href="https://twitter.com/tucuenta">Twitter</a></li>
+    <!-- Agrega tus redes sociales o cualquier otro medio de contacto -->
+</ul>
+
+</body>
+</html>
